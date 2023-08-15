@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/AvantiiM/iOS-First-Project/blob/main/iOS_Prework_.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -50,7 +50,16 @@ App 5: Flow Free
 - Daily levels
 - Low storage space required
 
-App idea:
+App idea: Kpop Fanbase app:
+- Can organize streaming parties
+- list upcoming comebacks and new kpop groups
+- join exclusive group fanbase communities
+- prizes, streams tracking
+- private messaging
+- communities creation
+- games
+- voice chat
+
 
 
 ## Notes
